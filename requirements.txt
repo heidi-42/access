@@ -1,0 +1,6 @@
+aiohttp==3.6.2
+jsonschema==3.2.0
+fire==0.3.1
+heidi.egg==info
+secrets==1.0.2
+heidi==1.0.18
